@@ -1,4 +1,4 @@
-Plano de Estudos e Carreira – Inspirado em Chloe O'Brian (Série 24 Horas)
+Plano de Estudos e Carreira
 
 
 ---
