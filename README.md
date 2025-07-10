@@ -1,6 +1,11 @@
-## Hi there 👋
+## Sejam Bem-Vindos ao Meu GitHub !!
 
-<!--
+
+![Image do jin](https://github.com/user-attachments/assets/10a750b1-bba7-4605-9e78-a229e73ecd73) 
+
+
+
+
 **ssluiz/ssluiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
