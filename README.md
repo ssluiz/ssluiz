@@ -1,10 +1,6 @@
-<img width="2200" height="750" alt="Image" src="https://github.com/user-attachments/assets/5f044d5b-96c2-4401-b3b7-8631707e74fc" />
-
+<img width="2048" height="875" alt="Image" src="https://github.com/user-attachments/assets/935d40b6-4345-4e52-986e-d9a5adfd4966" />
 -----
-
-![Image do jin](https://github.com/user-attachments/assets/10a750b1-bba7-4605-9e78-a229e73ecd73) 
------
-<h1 align="center">Olá, 👋<br>🔈 Ola, Me Chamo Luiz Felipe!<br>💬 Sou Estudante de Ciências da Computação, e Estudando para Desenvolvedor Fullstack</h1>
+<h1 align="center">Olá, 👋<br>🔈 Me Chamo Luiz Felipe!<br></h1>
 
 ###
 
