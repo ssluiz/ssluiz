@@ -42,11 +42,11 @@
 
 ----
 
-| Cursos             | Escolas | Certificados |
+| Cursos                                     | Escolas | Certificados |
 |--------------------|---------|--------------|
-| Java Backend       | DIO     | ✅            |
-| XP Fullstack       | DIO     | ✅            |
-| Imersão Dev        | Alura   | ✅            |
+| Bootcamp Santander Java Backend 2024       | DIO     | ✅            |
+| Bootcamp XP Fullstack                      | DIO     | ✅            |
+| Imersão Dev                                | Alura   | ✅            |
 
 
 
